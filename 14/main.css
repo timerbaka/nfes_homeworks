@@ -21,3 +21,4 @@ h1{
 }
 article:hover{opacity: 1;}
 article:hover p, article:hover h2, article:hover h1 {transform: translateY(0);}
+#copyright{text-align: right; margin-right: 2vw;}
